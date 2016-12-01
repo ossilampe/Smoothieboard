@@ -4,11 +4,7 @@ Ein neues Steuerboard für meinen 3D Drucker
 
 Es gibt noch andere Modifikatoren für Pins:
 
-Beispiel:
-
-my_pin_name                      19!
-
-Hier ist Pin 19 invertiert
+Beispiel: my_pin_name                     [ 19!]     Hier ist Pin 19 invertiert
 
 Alle Optionen
 *   !	Invert-pin
