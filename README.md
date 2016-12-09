@@ -1,4 +1,4 @@
-# Smoothieboard
+119# Smoothieboard
 Ein neues Steuerboard für meinen 3D Drucker
 
 
@@ -13,3 +13,8 @@ Alle Optionen
 *   v Stellen Sie den Stift nach unten ziehen
 *   - keine Pull-up zu setzen
 *   @ einstellen Repeater-Modus
+
+
+
+
+* M119  ausgabe der Hommingschalter
